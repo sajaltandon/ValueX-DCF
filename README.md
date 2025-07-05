@@ -328,12 +328,10 @@ python tests/test_valuex.py --performance
 
 ---
 
-## 🤝 **Contributing**
-
 ### **Development Setup**
 ```bash
 # Clone and setup development environment
-git clone https://github.com/yourusername/valuex.git
+git clone https://github.com/sajaltandon/ValueX-DCF
 cd valuex
 python setup.py
 
@@ -343,103 +341,3 @@ pip install -r requirements-dev.txt
 # Run tests before committing
 python tests/test_valuex.py
 ```
-
-### **Code Standards**
-- Follow PEP 8 style guidelines
-- Add comprehensive docstrings
-- Include unit tests for new features
-- Update documentation for API changes
-
----
-
-## 📄 **License & Disclaimer**
-
-### **License**
-MIT License - See LICENSE file for details
-
-### **Disclaimer** 
-⚠️ **Important**: This tool is for educational and research purposes only. It should not be considered as personalized investment advice. Always consult with qualified financial professionals before making investment decisions. Past performance does not guarantee future results.
-
----
-
-## 🆘 **Support & Documentation**
-
-### **Getting Help**
-- 📖 **Documentation**: Complete API docs in `/docs`
-- 🐛 **Issues**: Report bugs on GitHub Issues  
-- 💬 **Discussions**: Join GitHub Discussions for questions
-- 📧 **Contact**: [your-email@example.com]
-
-### **Useful Links**
-- [API Documentation](docs/api.md)
-- [Examples & Tutorials](examples/)
-- [Configuration Guide](docs/configuration.md)
-- [Troubleshooting](docs/troubleshooting.md)
-
----
-
-## 🎯 **Roadmap**
-
-### **Upcoming Features**
-- [ ] **Real-time Data Streaming** - Live market data integration
-- [ ] **Portfolio Analysis** - Multi-stock portfolio valuation
-- [ ] **Options Valuation** - Black-Scholes and binomial models
-- [ ] **ESG Integration** - Environmental, Social, Governance factors
-- [ ] **Cloud Deployment** - AWS/Azure deployment templates
-- [ ] **Mobile App** - React Native mobile interface
-
-### **Enhancements**
-- [ ] **Advanced Charting** - Interactive Plotly dashboards
-- [ ] **Custom Models** - User-defined valuation models
-- [ ] **Backtesting** - Historical performance validation
-- [ ] **API Endpoints** - RESTful API for integration
-
----
-
-<div align="center">
-
-**Built with ❤️ for the finance community**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](tests/)
-[![AI](https://img.shields.io/badge/AI-Powered-purple.svg)](https://ai.google.dev/)
-
-</div>
-- `ReportGenerator`: Creates an articulate investment note based on computed DCF outputs
-
-> These agents are optional and do **not interfere** with core financial calculations.
-
----
-
-## 📈 Sensitivity Analysis Example
-
-![Sample Heatmap](https://via.placeholder.com/600x300?text=Sensitivity+Heatmap+Example)
-
-- X-axis: Terminal Growth Rate (%)
-- Y-axis: WACC (%)
-- Cell Value: Fair Value per Share
-
----
-
-## 📜 License
-
-MIT License — open source and free to use, modify, or contribute.
-
----
-
-## 👨‍💻 Author
-
-**Samarth Mishra**  
-B.Tech CSE (Core), SRM Institute of Science and Technology  
-📫 [LinkedIn](https://www.linkedin.com/in/samarth-mishra) | 🧠 [GitHub](https://github.com/samarthmishra-ai)
-
----
-
-## 🧠 Disclaimer
-
-This tool is intended for **educational and research purposes**. Financial decisions should not rely solely on this tool. Always consult certified financial professionals before investing.
-
----
-
-> Built for finance enthusiasts who want both **rigor and explainability** in equity valuation.
