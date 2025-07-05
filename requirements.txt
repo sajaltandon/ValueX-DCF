@@ -1,0 +1,31 @@
+# Core Data & Financial Analysis
+yfinance==0.2.28
+pandas==2.1.4
+numpy==1.25.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# CLI & UI
+typer==0.9.0
+streamlit==1.29.0
+rich==13.7.0
+
+# AI/LLM Integration
+google-generativeai==0.3.2
+openai==1.6.1
+python-dotenv==1.0.0
+
+# Data Processing & Utilities
+scipy==1.11.4
+openpyxl==3.1.2
+reportlab==4.0.8
+
+# Development & Testing
+pytest==7.4.3
+black==23.12.1
+flake8==6.1.0
